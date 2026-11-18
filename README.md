@@ -1,6 +1,6 @@
-# Virtual Pet - IEEE Hackathon
+# 🐾 Petopia — 3D Virtual Pet Game
 
-> 🏆 **HACKATHON WINNER — 1st PLACE (IEEE Hackathon)** | Organized by IEEE, partner college/committee.
+PLACEHOLDER_BANNER
 
 
 A simple Virtual Pet game
