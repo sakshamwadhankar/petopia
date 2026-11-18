@@ -1,6 +1,6 @@
 # 🐾 Petopia — 3D Virtual Pet Game
 
-PLACEHOLDER_BANNER
+> 🏆 **HACKATHON WINNER — 1st PLACE — VIBECODER** | Organized by the IEEE committee.
 
 
 A simple Virtual Pet game
